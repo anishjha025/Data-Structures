@@ -172,6 +172,3 @@ if(t!=NULL)
         preorder1(t->rchild);
 }
 }
-
-
-
