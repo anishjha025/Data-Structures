@@ -1,5 +1,5 @@
 /*
-
+Algo:
 initialize: pathlen = 0, path[1000] 
 printPathsRecur(tree, path[], pathlen)
    1) If node is not NULL then 
